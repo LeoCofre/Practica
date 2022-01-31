@@ -50,13 +50,13 @@ class SuperHeroProvider {
                 "Green Lantern",
                 "DC",
                 "Alan Scott",
-                "https://cursokotlin.com/wp-content/ploads/2017/07/greenlantern.jpg"
+                "https://cursokotlin.com/wp-content/ploads/2017/07/green-lantern.jpg"
             ),
             SuperHero(
                 "Wonder Woman",
                 "DC",
                 "Princesa a Caballo",
-                "https://cursokotlin.com/wp-content/ploads/2017/07/spiderman.jpg"
+                "https://cursokotlin.com/wp-content/ploads/2017/07/wonder_woman.jpg"
             )
 
 
